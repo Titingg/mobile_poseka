@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Poseka</string>
+
+    //Headings
+    <string name="heading_one">Data Terlindungi</string>
+    <string name="heading_two">Empati</string>
+    <string name="heading_three">Stop Pelecehan</string>
+    <string name="heading_fourth">Pelaporan Pelecehan Seksual</string>
+
+    //Description
+    <string name="desc_one">Dapat terjadi di tempat kerja, di tempat umum, maupun di lingkungan pendidikan seperti Perguruan Tinggi</string>
+    <string name="desc_two">Salah satunya Perguruan Tinggi yang di dalamnya seringkali tejadi pelecehan dari berbagai oknum</string>
+    <string name="desc_three">Diantaranya yaitu korban merasa terkejut, terhina, lemas, dan merasa rendah</string>
+    <string name="desc_fourth">Untuk meminimalisir peristiwa tersebut, maka hadirlah aplikasi POSEKA ini sebagai sarana Pelaporan Pelecehan Seksual di Kampus</string>
+
+    //home
+    <string name="home1">Hai, Titing</string>
+    <string name="home2">Tanggal : 10 Januari 2023</string>
+    <string name="home3">Included</string>
+    <string name="home4">For more details press on the icons</string>
+    <string name="Recomended">Recomended</string>
+    <string name="home5">Rating dan Reviews</string>
+    <string name="home6">Sorted by recent reviews</string>
+
+    //bar home
+    <string name="barhome1">Lapor</string>
+    <string name="barhome2">Tips</string>
+    <string name="barhome3">Konsultasi</string>
+    <string name="barhome4">History</string>
+
+    //Lapor
+    <string name="lapor1">Pelaporan</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Kuliah/Semester/Semester V/Mobile/poseka/Poseka/Poseka/app/src/main/res/drawable-v24/ic_baseline_control_point_24.xml" value="0.1895" />
+        <entry key="..\:/Kuliah/Semester/Semester V/Mobile/poseka/Poseka/Poseka/app/src/main/res/drawable-v24/ic_baseline_home_24.xml" value="0.1895" />
+        <entry key="..\:/Kuliah/Semester/Semester V/Mobile/poseka/Poseka/Poseka/app/src/main/res/drawable-v24/ic_baseline_person_24.xml" value="0.1895" />
+        <entry key="..\:/Kuliah/Semester/Semester V/Mobile/poseka/Poseka/Poseka/app/src/main/res/drawable/bg_circle_green_line.xml" value="0.1385" />
+        <entry key="..\:/Kuliah/Semester/Semester V/Mobile/poseka/Poseka/Poseka/app/src/main/res/drawable/bg_half_rounded2.xml" value="0.1385" />
+        <entry key="..\:/Kuliah/Semester/Semester V/Mobile/poseka/Poseka/Poseka/app/src/main/res/drawable/button.xml" value="0.1895" />
+        <entry key="..\:/Kuliah/Semester/Semester V/Mobile/poseka/Poseka/Poseka/app/src/main/res/layout/activity_fragment.xml" value="0.16799999999999998" />
+        <entry key="..\:/Kuliah/Semester/Semester V/Mobile/poseka/Poseka/Poseka/app/src/main/res/layout/activity_fragment2.xml" value="0.259375" />
+        <entry key="..\:/Kuliah/Semester/Semester V/Mobile/poseka/Poseka/Poseka/app/src/main/res/layout/activity_home_detail.xml" value="0.18090277777777777" />
+        <entry key="..\:/Kuliah/Semester/Semester V/Mobile/poseka/Poseka/Poseka/app/src/main/res/layout/activity_inputan_text.xml" value="0.2713541666666667" />
+        <entry key="..\:/Kuliah/Semester/Semester V/Mobile/poseka/Poseka/Poseka/app/src/main/res/layout/activity_login.xml" value="0.259375" />
+        <entry key="..\:/Kuliah/Semester/Semester V/Mobile/poseka/Poseka/Poseka/app/src/main/res/layout/activity_main.xml" value="0.176" />
+        <entry key="..\:/Kuliah/Semester/Semester V/Mobile/poseka/Poseka/Poseka/app/src/main/res/layout/activity_mainscreen.xml" value="0.176" />
+        <entry key="..\:/Kuliah/Semester/Semester V/Mobile/poseka/Poseka/Poseka/app/src/main/res/layout/activity_register.xml" value="0.259375" />
+        <entry key="..\:/Kuliah/Semester/Semester V/Mobile/poseka/Poseka/Poseka/app/src/main/res/layout/activity_splash_screen.xml" value="0.259375" />
+        <entry key="..\:/Kuliah/Semester/Semester V/Mobile/poseka/Poseka/Poseka/app/src/main/res/layout/fragment_activity.xml" value="0.259375" />
+        <entry key="..\:/Kuliah/Semester/Semester V/Mobile/poseka/Poseka/Poseka/app/src/main/res/layout/fragment_home.xml" value="0.264" />
+        <entry key="..\:/Kuliah/Semester/Semester V/Mobile/poseka/Poseka/Poseka/app/src/main/res/layout/fragment_lapor.xml" value="0.18090277777777777" />
+        <entry key="..\:/Kuliah/Semester/Semester V/Mobile/poseka/Poseka/Poseka/app/src/main/res/layout/fragment_profil.xml" value="0.176" />
+        <entry key="..\:/Kuliah/Semester/Semester V/Mobile/poseka/Poseka/Poseka/app/src/main/res/layout/inputantest.xml" value="0.2713541666666667" />
+        <entry key="..\:/Kuliah/Semester/Semester V/Mobile/poseka/Poseka/Poseka/app/src/main/res/layout/item_recommended.xml" value="0.18090277777777777" />
+        <entry key="..\:/Kuliah/Semester/Semester V/Mobile/poseka/Poseka/Poseka/app/src/main/res/layout/slider_layout.xml" value="0.259375" />
+        <entry key="..\:/Kuliah/Semester/Semester V/Mobile/poseka/Poseka/Poseka/app/src/main/res/layout/slider_layout2.xml" value="0.259375" />
+        <entry key="..\:/Kuliah/Semester/Semester V/Mobile/poseka/Poseka/Poseka/app/src/main/res/layout/slider_layout3.xml" value="0.259375" />
+        <entry key="..\:/Kuliah/Semester/Semester V/Mobile/poseka/Poseka/Poseka/app/src/main/res/layout/slider_layout4.xml" value="0.259375" />
+        <entry key="..\:/Kuliah/Semester/Semester V/Mobile/poseka/Poseka/Poseka/app/src/main/res/menu/bottom_navigation.xml" value="0.259375" />
+        <entry key="..\:/Kuliah/Semester/Semester V/Mobile/poseka/Poseka/Poseka/app/src/main/res/xml/network_security_config.xml" value="0.18090277777777777" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Onboarding-master/app/src/main/res/font/poppins.xml" value="0.1787037037037037" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Onboarding-master/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Onboarding-master/app/src/main/res/layout/activity_mainscreen.xml" value="0.16145833333333334" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Onboarding-master/app/src/main/res/layout/slider_layout.xml" value="0.13999999999999999" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Onboarding-master/app/src/main/res/layout/slider_layout1.xml" value="0.2" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Onboarding-master/app/src/main/res/layout/slider_layout2.xml" value="0.2" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Onboarding-master/app/src/main/res/layout/slider_layout3.xml" value="0.2" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Onboarding-master/app/src/main/res/layout/slider_layout4.xml" value="0.2" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Poseka/app/src/main/res/drawable/ic_camera.xml" value="0.1" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Poseka/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Poseka/app/src/main/res/layout/activity_splash_screen.xml" value="0.12395833333333334" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Poseka/app/src/main/res/layout/fragment_home.xml" value="0.12" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/Poseka/app/src/main/res/layout/fragment_lapor.xml" value="0.12" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

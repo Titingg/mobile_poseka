@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@drawable/bg_lapor"
+    tools:context=".fragment.HomeFragment">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:gravity="center"
+        android:fontFamily="@font/poppins_bold"
+        android:text="Lapor"
+        android:textColor="@color/black"
+        android:textSize="27dp" />
+
+    <EditText
+        android:id="@+id/edtInput"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="100dp"
+        android:hint="Nama"
+        android:inputType="textPersonName"
+        android:textSize="16sp"
+        android:layout_weight="3" />
+
+    <EditText
+        android:id="@+id/input_nik"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Jenis Kelamin"
+        android:inputType="text"
+        android:textSize="16sp"
+        android:layout_marginTop="150dp"
+        android:layout_weight="3" />
+
+    <EditText
+        android:id="@+id/input_umur"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="200dp"
+        android:hint="Usia"
+        android:inputType="text"
+        android:textSize="16sp"
+        android:layout_weight="3"/>
+
+    <EditText
+        android:id="@+id/input_jeniskelamin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="250dp"
+        android:hint="deskripsi"
+        android:inputType="text"
+        android:textSize="16sp"
+        android:layout_weight="3" />
+
+    <EditText
+        android:id="@+id/input_alamat"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="300dp"
+        android:hint="Tanggal Kejadian"
+        android:inputType="datetime"
+        android:textSize="16sp"
+        android:layout_weight="3" />
+
+    <EditText
+        android:id="@+id/tgllahir"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="350dp"
+        android:hint="Bukti"
+        android:inputType="text"
+        android:textSize="16sp"
+        android:layout_weight="3" />
+
+    <EditText
+        android:id="@+id/lokasi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="500dp"
+        android:hint="Lokasi"
+        android:inputType="text"
+        android:textSize="16sp"
+        android:layout_weight="3" />
+
+    <ImageButton
+        android:id="@+id/IB"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="400dp"
+        android:adjustViewBounds="true"
+        android:clickable="true"
+        android:padding="10dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/ic_camera" />
+
+    <Button
+        android:id="@+id/simpan_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="570dp"
+        android:onClick="submit"
+        android:text="Kirim"
+        android:textAllCaps="true"
+        android:textSize="16sp" />
+
+</FrameLayout>

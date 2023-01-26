@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bgpolos"
+    tools:context=".fragment.HomeFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_gravity="left"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="60dp"
+        android:fontFamily="@font/poppins_bold"
+        android:text="@string/home1"
+        android:textColor="@color/background"
+        android:textSize="30dp" />
+
+
+    <ImageView
+        android:layout_width="147dp"
+        android:layout_height="147dp"
+        android:layout_gravity="right"
+        android:layout_marginTop="15dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="60dp"
+        android:src="@drawable/karakter" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="205dp"
+        android:fontFamily="@font/poppins_bold"
+        android:layout_marginLeft="15dp"
+        android:gravity="left"
+        android:text="@string/home3"
+        android:textColor="@color/black"
+        android:textSize="25dp" />
+
+    <TextView
+        android:layout_width="380dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="240dp"
+        android:layout_marginBottom="60dp"
+        android:fontFamily="@font/poppins"
+        android:layout_marginLeft="15dp"
+        android:gravity="left"
+        android:text="@string/home4"
+        android:textColor="@color/black"
+        android:textSize="13dp" />
+
+    <ImageView
+        android:id="@+id/ivkonsultasi"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_gravity="center_vertical"
+        android:layout_marginLeft="195dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="60dp"
+        android:src="@drawable/customer" />
+
+    <TextView
+        android:layout_width="70dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center_vertical"
+        android:layout_marginBottom="60dp"
+        android:layout_marginLeft="193dp"
+        android:layout_marginTop="60dp"
+        android:textColor="@color/black"
+        android:fontFamily="@font/poppins_bold"
+        android:textSize="12dp"
+        android:text="@string/barhome3"/>
+
+    <ImageView
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_gravity="center_vertical"
+        android:layout_marginBottom="60dp"
+        android:layout_marginLeft="285dp"
+        android:layout_marginTop="5dp"
+        android:src="@drawable/story" />
+
+    <TextView
+        android:layout_width="60dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center_vertical"
+        android:layout_marginBottom="60dp"
+        android:layout_marginLeft="292dp"
+        android:layout_marginTop="60dp"
+        android:textColor="@color/black"
+        android:fontFamily="@font/poppins_bold"
+        android:textSize="13dp"
+        android:text="@string/barhome4"/>
+
+    <ImageView
+        android:id="@+id/tips"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_gravity="center_vertical"
+        android:layout_marginLeft="105dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="60dp"
+        android:src="@drawable/idea" />
+
+    <TextView
+        android:layout_width="60dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center_vertical"
+        android:layout_marginBottom="60dp"
+        android:layout_marginLeft="120dp"
+        android:layout_marginTop="60dp"
+        android:textColor="@color/black"
+        android:fontFamily="@font/poppins_bold"
+        android:textSize="13dp"
+        android:text="@string/barhome2"/>
+
+    <ImageView
+        android:id="@+id/ImgLapor"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_gravity="center_vertical"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="60dp"
+        android:src="@drawable/megaphone" />
+
+    <TextView
+        android:layout_width="60dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center_vertical"
+        android:layout_marginBottom="60dp"
+        android:layout_marginLeft="25dp"
+        android:layout_marginTop="60dp"
+        android:textColor="@color/black"
+        android:fontFamily="@font/poppins_bold"
+        android:textSize="13dp"
+        android:text="@string/barhome1"/>
+
+    <TextView
+        android:layout_width="380dp"
+        android:layout_height="50dp"
+        android:layout_gravity="left"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="405dp"
+        android:layout_marginBottom="60dp"
+        android:fontFamily="@font/poppins_bold"
+        android:text="@string/home5"
+        android:textColor="@color/black"
+        android:textSize="23dp" />
+
+    <TextView
+        android:layout_width="380dp"
+        android:layout_height="50dp"
+        android:layout_gravity="left"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="438dp"
+        android:layout_marginBottom="60dp"
+        android:fontFamily="@font/poppins"
+        android:text="@string/home6"
+        android:textColor="@color/black"
+        android:textSize="12dp" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/container_choose_service"
+        android:layout_marginTop="450dp">
+<!--        android:background="@drawable/bg_half_rounded2"-->
+
+        <TextView
+            android:id="@+id/recommended"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="20dp"
+            android:fontFamily="@font/poppins"
+            android:text="@string/Recomended"
+            android:textColor="@color/black"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/recyclerview_recommended"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/recommended"
+            android:layout_marginTop="13dp"
+            android:clipToPadding="false"
+            android:paddingStart="10dp"
+            android:paddingEnd="10dp" />
+    </RelativeLayout>
+</FrameLayout>
